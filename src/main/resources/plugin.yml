@@ -1,0 +1,7 @@
+name: KotlinPowerNukkitPluginTemplate-Maven
+main: kim.present.template.maven.Main
+version: "0.1.0"
+api: [ "1.0.11" ]
+author: Author
+description: Template of kotlin PowerNukkit plugin with maven
+depend: [ KotlinLib ]
